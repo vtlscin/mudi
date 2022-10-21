@@ -1,2 +1,2 @@
 # mudi
-Aplicação para gerenciar pedidos online
+Aplicação feita em Spring MVC para gerenciamento de pedidos online.
